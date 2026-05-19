@@ -10,6 +10,10 @@
   <img align="center" alt="p" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="p" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="p" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
+
+
+##
 
           
 <div>
@@ -19,7 +23,8 @@
 </div>
 
   
-  ##
+  
 
 
 <img width=55% src="https://capsule-render.vercel.app/api?type=waving&color=F55B20&height=120&section=footer"/>
+</div>
