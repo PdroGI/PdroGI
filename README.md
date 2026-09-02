@@ -1,5 +1,4 @@
-Hi! I'm Pedro Guimarães.    
-
+<h1 align="center">Hi, I'm Pedro Guimarães
 
 
 <div style="display: inline_block"><br>
